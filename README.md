@@ -5,7 +5,7 @@ gradlew tRW
 ## 1) import project
 ## 2) Create a docker deployment
 <p align="center">
-  <img src="Capture.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/huseyin-bacanak/docker2/master/Capture.PNG" width="350"/>
 </p>
 ## 3) Create a remote debugging task
 ## 4) run docker deployment
